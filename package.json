@@ -1,0 +1,29 @@
+{
+  "name": "react-cordova",
+  "version": "1.0.0",
+  "description": "Create a react-cordova app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./lib/index.js",
+    "remove:test": "rimraf ./sample-folder"
+  },
+  "bin": {
+    "react-cordova": "./bin/react-cordova.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wviveiro/react-cordova.git"
+  },
+  "author": "Wellington Viveiro <wviveiro@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wviveiro/react-cordova/issues"
+  },
+  "homepage": "https://github.com/wviveiro/react-cordova#readme",
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.0"
+  }
+}
