@@ -1,5 +1,5 @@
 {
-  "name": "react-cordova",
+  "name": "@wviveiro/react-cordova",
   "version": "1.0.1",
   "description": "Create a react-cordova app",
   "main": "index.js",
