@@ -21,9 +21,9 @@
   },
   "homepage": "https://github.com/wviveiro/react-cordova#readme",
   "dependencies": {
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.10.0"
   },
   "devDependencies": {
-    "rimraf": "^3.0.0"
+    "rimraf": "^6.1.3"
   }
 }
